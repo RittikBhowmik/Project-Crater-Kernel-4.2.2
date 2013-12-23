@@ -1,0 +1,1 @@
+cmd_drivers/sensors/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/sensors/built-in.o drivers/sensors/yas532/built-in.o drivers/sensors/sensors_core.o 

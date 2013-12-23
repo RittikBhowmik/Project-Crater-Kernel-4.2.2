@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-capri/chal/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o arch/arm/mach-capri/chal/built-in.o arch/arm/mach-capri/chal/chal_dmux.o arch/arm/mach-capri/chal/chal_dma.o arch/arm/mach-capri/chal/chal_ipc.o arch/arm/mach-capri/chal/chal_icd.o arch/arm/mach-capri/chal/chal_rtc.o 

@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/vc_fb/vc-fb.o := /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/char/broadcom/vc_fb/vc-fb.o drivers/char/broadcom/vc_fb/vmcs_fb.o drivers/char/broadcom/vc_fb/vc_vchi_fb.o 

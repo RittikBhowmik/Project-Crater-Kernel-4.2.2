@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/mpu6050/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/input/misc/mpu6050/built-in.o drivers/input/misc/mpu6050/mpu6050_input.o drivers/input/misc/mpu6050/mpu6050_selftest.o 

@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/mfd/built-in.o drivers/mfd/mfd-core.o drivers/mfd/bcmpmu-i2c.o drivers/mfd/bcmpmu-core.o drivers/mfd/bcmpmu-irq.o drivers/mfd/bcmpmu-accy.o drivers/mfd/bcmpmu-bcm59054-map.o 

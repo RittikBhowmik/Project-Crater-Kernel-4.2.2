@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/hwmon/built-in.o drivers/hwmon/hwmon.o drivers/hwmon/kona-tmon.o drivers/hwmon/kona-thermal.o drivers/hwmon/bcmpmu-thermal.o drivers/hwmon/bcmpmu-hwmon.o 

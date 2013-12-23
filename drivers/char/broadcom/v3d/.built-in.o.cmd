@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/v3d/built-in.o :=  rm -f drivers/char/broadcom/v3d/built-in.o; /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ar rcsD drivers/char/broadcom/v3d/built-in.o

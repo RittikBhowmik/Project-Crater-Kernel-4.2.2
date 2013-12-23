@@ -1,0 +1,1 @@
+cmd_drivers/sensors/yas532/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/sensors/yas532/built-in.o drivers/sensors/yas532/geomagnetic/built-in.o drivers/sensors/yas532/orientation/built-in.o 

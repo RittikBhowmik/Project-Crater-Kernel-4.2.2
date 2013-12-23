@@ -1,0 +1,4 @@
+kernel/drivers/char/broadcom/gist.ko
+kernel/drivers/char/broadcom/sigmorph.ko
+kernel/drivers/scsi/scsi_wait_scan.ko
+kernel/drivers/net/wireless/bcmdhd/dhd.ko

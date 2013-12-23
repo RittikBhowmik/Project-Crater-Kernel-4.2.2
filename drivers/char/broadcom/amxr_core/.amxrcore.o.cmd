@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/amxr_core/amxrcore.o := /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/char/broadcom/amxr_core/amxrcore.o drivers/char/broadcom/amxr_core/amxr_core.o drivers/char/broadcom/amxr_core/amxr_resamp.o drivers/char/broadcom/amxr_core/amxr_vectadd.o drivers/char/broadcom/amxr_core/amxr_vectmul.o 

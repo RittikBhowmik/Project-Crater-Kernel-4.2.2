@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/video/backlight/built-in.o drivers/video/backlight/lcd.o drivers/video/backlight/backlight.o drivers/video/backlight/ktd3103_bl.o drivers/video/backlight/bcm_touchkey_led.o 

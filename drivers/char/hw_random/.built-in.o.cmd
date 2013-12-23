@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/built-in.o :=  /home/rittik/android/kernel/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-ld -EL    -r -o drivers/char/hw_random/built-in.o drivers/char/hw_random/rng-core.o drivers/char/hw_random/kona_rng.o 
